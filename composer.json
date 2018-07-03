@@ -1,0 +1,19 @@
+{
+  "name": "rjyxz/aliyun-php-sdk-core",
+  "description": "阿里云 PHP SDK，用于创建并初始化DefaultAcsClient实例。",
+  "type": "library",
+  "license": "Apache-2.0",
+  "authors": [
+    {
+      "name": "Moments"
+    }
+  ],
+  "require": {
+    "php": ">=5.4"
+  },
+  "autoload": {
+    "files": [
+      "src/aliyun-php-sdk-core/Config.php"
+    ]
+  }
+}
